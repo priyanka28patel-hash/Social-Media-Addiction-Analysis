@@ -59,12 +59,33 @@ Analysis of the relationship between social media usage and academic performance
 
 ## 💡 Key Insights
 
-- Social media usage varies significantly across users.
-- The dashboard highlights the most frequently used social media platforms.
-- Sleep patterns can be compared against social media usage across different age groups.
-- Demographic analysis provides insights into usage patterns across countries and age groups.
-- Academic performance can be evaluated alongside social media behavior.
+1. **Higher Usage, Higher Addiction Risk:** Students in the Very High
+   usage category (>6 hrs/day) have an average addiction score of 8.71,
+   compared with 6.25 among Moderate users.
 
+2. **Usage & Sleep Pattern:** Average sleep decreases from 7.09 hours
+   among Moderate users to 6.43 hours among Very High users.
+
+3. **Academic Impact:** Approximately 78.9% of students in the Very High
+   usage category show academic-performance impact, compared with 48.3%
+   among Moderate users.
+
+4. **Largest Usage Segment:** The High usage category (4–6 hrs/day)
+   contains 1,103 students, representing approximately 55.2% of the
+   dataset.
+
+5. **Most-Used Platform:** Instagram is the most-used platform with
+   686 students, followed by TikTok (447) and Facebook (371).
+
+6. **Platform-Level Pattern:** TikTok users have an average addiction
+   score of 7.89, compared with 7.61 for Instagram and 7.32 for Facebook.
+
+7. **Sleep Deficit:** 458 students (22.9%) fall into the Sleep Deficit
+   category (<6 hrs/night), while 923 students (46.15%) report Healthy
+   Sleep (>7 hrs/night).
+
+8. **Overall Academic Impact:** 1,271 of 2,000 students (63.55%) are
+   classified as experiencing academic-performance impact.
 ## 📁 Project Files
 
 | File | Description |
